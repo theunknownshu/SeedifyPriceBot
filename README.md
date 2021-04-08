@@ -1,2 +1,0 @@
-# SeedifyPriceBot-
-SeedifyPriceBot for Telegram
