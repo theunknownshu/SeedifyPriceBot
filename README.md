@@ -1,6 +1,6 @@
 # Telegram Crypto Tracker
 
-A telegram bot that uses the Pancake Swap API to recieve the price of a token.
+A telegram bot that uses the [Pancakeswap API](https://github.com/pancakeswap/pancake-info-api) to recieve the price of a token.
 
 Currently being used for this bot on telegram: https://t.me/SeedifyPriceBot
 
