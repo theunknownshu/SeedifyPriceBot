@@ -8,3 +8,8 @@ I've never really used Github before but I've attached all the files in the "Rel
 
 I'll upload the new files everytime I change something like adding a new currency.
 
+
+
+To get the bot working all you need to do it add your Telegram Token to the bot.py file.
+
+The run the bot use the bot.py file NOT the tracker.py
