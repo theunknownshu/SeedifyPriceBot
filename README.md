@@ -1,4 +1,4 @@
-# Telegram Crypto Tracker
+# Telegram Crypto Price Checker using Pancake Swap API
 
 A telegram bot that uses the [Pancakeswap API](https://github.com/pancakeswap/pancake-info-api) to recieve the price of a token.
 
